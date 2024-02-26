@@ -1,0 +1,70 @@
+city,Y,X,country,admin_name,capital,population
+Kabul,34.5253,69.1783,Afghanistan,Kābul,primary,4273156
+Kandahār,31.62,65.7158,Afghanistan,Kandahār,admin,614254
+Herāt,34.3419,62.2031,Afghanistan,Herāt,admin,556205
+Farāh,32.3436,62.1194,Afghanistan,Farāh,admin,500000
+Mazār-e Sharīf,36.7,67.1167,Afghanistan,Balkh,admin,469247
+Lashkar Gāh,31.5831,64.3692,Afghanistan,Helmand,admin,276831
+Kunduz,36.7286,68.8681,Afghanistan,Kunduz,admin,268893
+Jalālābād,34.4342,70.4478,Afghanistan,Nangarhār,admin,263312
+Tāluqān,36.7167,69.5167,Afghanistan,Takhār,admin,263800
+Shibirghān,36.665,65.752,Afghanistan,Jowzjān,admin,175599
+Zaranj,30.96,61.86,Afghanistan,Nīmrōz,admin,160902
+Khōst,33.3331,69.9169,Afghanistan,Khōst,admin,160214
+Maīmanah,35.9333,64.75,Afghanistan,Fāryāb,admin,149040
+Mehtar Lām,34.6683,70.2089,Afghanistan,Laghmān,admin,144162
+Ghaznī,33.5492,68.4233,Afghanistan,Ghaznī,admin,143379
+Paghmān,34.5833,68.95,Afghanistan,Kābul,,143000
+Pul-e Khumrī,35.95,68.7,Afghanistan,Baghlān,admin,113500
+Bāmyān,34.825,67.8333,Afghanistan,Bāmyān,admin,100000
+Chārīkār,35.0131,69.1689,Afghanistan,Parwān,admin,96093
+Tarīn Kōṯ,32.6267,65.8733,Afghanistan,Uruzgān,admin,71604
+Gardēz,33.6,69.2169,Afghanistan,Paktiyā,admin,70641
+Faīẕābād,37.1166,70.58,Afghanistan,Badakhshān,admin,64704
+Qal‘ah-ye Now,34.9867,63.1292,Afghanistan,Bādghīs,admin,64125
+Sar-e Pul,36.2214,65.9278,Afghanistan,Sar-e Pul,admin,51075
+Maḩmūd-e Rāqī,35.0206,69.3306,Afghanistan,Kāpīsā,admin,50490
+Asadābād,34.8742,71.1528,Afghanistan,Kunaṟ,admin,48400
+Maīdān Shahr,34.3972,68.8697,Afghanistan,Wardak,admin,35008
+Bāzārak,35.3128,69.5158,Afghanistan,Panjshir,admin,24723
+Pul-e ‘Alam,33.9808,69.035,Afghanistan,Lōgar,admin,22914
+Fayrōz Kōh,34.5225,65.2517,Afghanistan,Ghōr,admin,15000
+Qalāt,32.1061,66.9069,Afghanistan,Zābul,admin,12191
+Aībak,36.2653,68.0167,Afghanistan,Samangān,admin,4938
+Pārūn,35.4167,70.9169,Afghanistan,Nūristān,admin,1647
+Sharan,33.1757,68.7304,Afghanistan,Paktīkā,admin,
+Nīlī,33.7218,66.1302,Afghanistan,Dāykundī,admin,
+Balkh,36.7581,66.8981,Afghanistan,Balkh,minor,77000
+Baghlān,36.1328,68.7,Afghanistan,Baghlān,minor,73031
+Bāzār-e Yakāwlang,34.7333,66.9667,Afghanistan,Bāmyān,,65000
+Ghōriyān,34.34,61.47,Afghanistan,Herāt,minor,54000
+Haskah Mēnah,34.1,70.4667,Afghanistan,Nangarhār,,50595
+Āqchah,36.9114,66.1858,Afghanistan,Jowzjān,minor,50000
+Gūdārah,34.8169,69.0878,Afghanistan,Kābul,,38000
+Andkhōy,36.95,65.1167,Afghanistan,Fāryāb,minor,37887
+Kōṯah-ye ‘As̲h̲rō,34.4492,68.7939,Afghanistan,Wardak,,35008
+Bagrāmī,34.4911,69.2756,Afghanistan,Kābul,minor,31680
+Bālā Kōh,36.5753,66.8203,Afghanistan,Balkh,,30419
+Khulm,36.6833,67.6833,Afghanistan,Balkh,minor,28078
+Khānābād,36.6831,69.1636,Afghanistan,Kunduz,minor,26803
+Ḩukūmatī Baghrān,33.0669,65.0917,Afghanistan,Helmand,,26724
+Sheghnān,37.6167,71.45,Afghanistan,Badakhshān,,24000
+Barakī Barak,33.9692,68.9447,Afghanistan,Lōgar,minor,22622
+Sangīn,32.0733,64.8339,Afghanistan,Helmand,minor,20000
+Qal‘ah-ye Zāl,37.015,68.4672,Afghanistan,Kunduz,,18000
+Karukh,34.4922,62.5922,Afghanistan,Herāt,minor,17484
+Kushk,33.2956,61.9522,Afghanistan,Herāt,,17479
+Qarqīn,37.4128,66.0472,Afghanistan,Jowzjān,minor,16500
+Islām Qal‘ah,34.6667,61.0667,Afghanistan,Herāt,,16408
+Zaṟah Sharan,33.13,68.78,Afghanistan,Paktīkā,,15651
+Barakī,33.9333,68.9167,Afghanistan,Lōgar,,15000
+Taywarah,33.51,64.42,Afghanistan,Ghōr,minor,15000
+Zarghūn Shahr,32.85,68.4167,Afghanistan,Paktīkā,,13737
+Kuhsān,34.65,61.1667,Afghanistan,Herāt,minor,12463
+Ḩukūmatī Gīzāb,33.3813,66.2655,Afghanistan,Dāykundī,,12000
+Panjāb,34.3833,67.0167,Afghanistan,Bāmyān,minor,9900
+Imām Şāḩib,37.1844,68.9144,Afghanistan,Kunduz,minor,9691
+Māmā Khēl,34.25,70.01,Afghanistan,Nangarhār,minor,9536
+Tujg,32.0686,61.8058,Afghanistan,Farāh,,10000
+Deh-e Shū,30.4344,63.3183,Afghanistan,Helmand,,9482
+Chīchkah,37.0706,69.2983,Afghanistan,Kunduz,,8792
